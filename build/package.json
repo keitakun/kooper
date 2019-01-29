@@ -1,0 +1,28 @@
+{
+  "name": "kooper",
+  "version": "0.1.0",
+  "description": "Lightweight task automator",
+  "main": "kooper.js",
+  "bin" : { "kooper" : "./kooper.js" },
+  "scripts": {
+    "test": "kooper"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keitakun/kooper.git"
+  },
+  "keywords": [
+    "task",
+    "automator",
+    "run",
+    "lightweight",
+    "independent",
+    "no-dependency"
+  ],
+  "author": "Keita Kuroki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keitakun/kooper/issues"
+  },
+  "homepage": "https://github.com/keitakun/kooper#readme"
+}

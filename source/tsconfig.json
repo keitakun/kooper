@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"module": "None",
+		"target": "ES5",
+		"outFile": "../build/kooper.js",
+		"rootDir": "./"
+	},
+	"files":
+	[
+		"main.ts"
+	]
+}
